@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61"]
+requires = ["setuptools>=77"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -7,20 +7,23 @@ name = "openplay"
 version = "0.1.0"
 description = "Open men's soccer event data (every pass, shot and tackle with coordinates) with xG on every shot"
 readme = "README.md"
-license = {text = "MIT"}
+license = "MIT"
+license-files = ["LICENSE"]
 authors = [{name = "Noah Bair", email = "noahlbair@gmail.com"}]
 requires-python = ">=3.9"
 dependencies = ["pandas>=1.5", "pyarrow>=10"]
+keywords = ["soccer", "football", "event data", "xG", "sports analytics"]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
     "Topic :: Scientific/Engineering",
     "Intended Audience :: Science/Research",
+    "Development Status :: 4 - Beta",
 ]
 
 [project.urls]
 Homepage = "https://github.com/nlbair/openplay-py"
 Data = "https://github.com/nlbair/openplay"
+Issues = "https://github.com/nlbair/openplay-py/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]

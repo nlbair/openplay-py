@@ -7,8 +7,10 @@ The R package [openplay-r](https://github.com/nlbair/openplay-r) has the same fu
 ## Install
 
 ```bash
-pip install git+https://github.com/nlbair/openplay-py
+pip install openplay
 ```
+
+Or the latest version from GitHub: `pip install git+https://github.com/nlbair/openplay-py`
 
 ## Use
 
