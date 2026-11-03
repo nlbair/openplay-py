@@ -1,0 +1,110 @@
+{
+ "cards.parquet": {
+  "sha256": "dd61097413112dda6986056bbcdf6eb3cd54971029cbab3c458761901db59e3a",
+  "bytes": 9221
+ },
+ "competitions.parquet": {
+  "sha256": "29314c968b7c8b8d20baf82ea8b6996eecd722aa886c94962158260b8889a4f0",
+  "bytes": 5234
+ },
+ "coverage.csv": {
+  "sha256": "0ad105b27132cdb476c55bee61a9f683496fdc56d452e5f908cf23e11c089298",
+  "bytes": 697
+ },
+ "data_issues.csv": {
+  "sha256": "f7ce4305695fb3b94b1ffa68c142eafe1d6e68e8620e190334243e101b0e3695",
+  "bytes": 72
+ },
+ "events_nla_2223.parquet": {
+  "sha256": "5b938e01c2052005f94949929e0719c81055b5c8c51b771aae37ee3f531e78ad",
+  "bytes": 1473744
+ },
+ "events_usc_1415.parquet": {
+  "sha256": "e6daeaec0a8fc03a0fd3b113432440416451a131efa7a2343ba7525ac80cd4e8",
+  "bytes": 130600
+ },
+ "events_usc_1516.parquet": {
+  "sha256": "6ee0d169b805bfee9d612a865c6c4e9d14594f768b08e746974b588612359fef",
+  "bytes": 131901
+ },
+ "events_usc_1617.parquet": {
+  "sha256": "c1c6f704d626fca06267ba6d37cb287e3658945fc41d5ec74b07dc2c9f2b216e",
+  "bytes": 111972
+ },
+ "events_usc_1718.parquet": {
+  "sha256": "0659c2f347ae9202cff30511b287dee41969192bf66d61e65f1b5e48ccf0cf4f",
+  "bytes": 135821
+ },
+ "events_usc_1819.parquet": {
+  "sha256": "67492d4f57d5cf2bb6f1b1e6ea3ae798258c728c688ab863c726d0142f5edb63",
+  "bytes": 137877
+ },
+ "events_usc_1920.parquet": {
+  "sha256": "e8cd56534af086f7360f62eeb51dda0a6c326e400220f8bf2dde0ce9303f0a5f",
+  "bytes": 127229
+ },
+ "events_usc_2021.parquet": {
+  "sha256": "86e596a277caa886e3bbe9bc78f7169511db15a17c33c95be131a8f186e75fef",
+  "bytes": 128572
+ },
+ "events_usc_2122.parquet": {
+  "sha256": "96da0c4c7fe169dec24fa67c062c505a047d34ff50848c754c2908b117511781",
+  "bytes": 113896
+ },
+ "events_usc_2223.parquet": {
+  "sha256": "6548c45138f54980253014209e904e51cea4332c50d52830a045c1303a476852",
+  "bytes": 114575
+ },
+ "events_usc_2324.parquet": {
+  "sha256": "329d6865585d319f2d0db0c1979fcbd676621e59fa0c49f9a9cd2e64cdb5d760",
+  "bytes": 115751
+ },
+ "events_usc_2425.parquet": {
+  "sha256": "8337b3825fffc9b145311f2581bd391b52a6aa3a8c4b7853ec5d00a57f3c441a",
+  "bytes": 114803
+ },
+ "events_usc_2526.parquet": {
+  "sha256": "930e49d6bf7d589b5b3909822278cb457633135e61c702dea7582e4fdde524e5",
+  "bytes": 118315
+ },
+ "formations.parquet": {
+  "sha256": "c5a1d30b37e7c00bfe27e199de5c515b6c17c77d241a9dee15116c8524663b9b",
+  "bytes": 28197
+ },
+ "known_gaps.csv": {
+  "sha256": "0f71885bf97d212c16b4828c70f8e9001259f81d4b763815cd6866d691a7872f",
+  "bytes": 1556
+ },
+ "lineups.parquet": {
+  "sha256": "7966c9d0b74ce1d8cea1104a7ee83daecd42cf6c6185794ce7666d090f4b1a49",
+  "bytes": 46279
+ },
+ "matches.parquet": {
+  "sha256": "bcc0a1054631c85fe80c1a7e54a22998ae562cd30868bf86c08ef7141ded6a5f",
+  "bytes": 35284
+ },
+ "player_match_stats.parquet": {
+  "sha256": "b1dd6d7a56d78005958793f519aebb9216f20a43ee16cc83440e972fbcf80430",
+  "bytes": 126023
+ },
+ "players.parquet": {
+  "sha256": "80661c777165fb5f032583a738b30ddf8a845fb156d8250e9c3ec5ed259d9789",
+  "bytes": 49489
+ },
+ "qualifier_dictionary.csv": {
+  "sha256": "e5fd08fb6b2016002d787205ef3720d76bf8cad6b27e23dcc9f6e613442afdf0",
+  "bytes": 4929
+ },
+ "shots.parquet": {
+  "sha256": "ea8e0854056394cf178793b519aecf7ca8f6f8b64aeb629d706b5559afe52866",
+  "bytes": 101393
+ },
+ "team_match_stats.parquet": {
+  "sha256": "dd35e413b00f61932fde129233502e604d234488d1c83a55cd7a22b96be4c85e",
+  "bytes": 69304
+ },
+ "teams.parquet": {
+  "sha256": "dac2d576809a59e1951da5245a4a6d20afc20fe5c2a75df93d259afcd1004993",
+  "bytes": 6803
+ }
+}
